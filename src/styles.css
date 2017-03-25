@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+.login-box, .register-box {
+    margin: auto;
+}
+
+html, body, :host, .container, .row, .valign-wrapper {
+    height: 100%;
+}
+:host {
+    display: block;
+}
+.notifyjs-container {
+    box-shadow: 0 0 3px #888;
+}

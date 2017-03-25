@@ -1,0 +1,6 @@
+html, body, :host, .container, .row, .login-page {
+    height: 100%;
+}
+:host {
+    display: block;
+}

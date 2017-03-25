@@ -1,0 +1,16 @@
+/*TODO this is duplicate, also found in category-list.component.css*/
+.box-header {
+    padding-bottom: 0;
+}
+.box-body {
+    padding-top: 0;
+}
+.first {
+    padding-left: 0;
+}
+.last {
+    padding-right: 0;
+}
+.no-side-padding {
+    padding-left: 0; padding-right: 0;
+}

@@ -1,0 +1,20 @@
+.logo img {
+    max-height: 40px;
+}
+.sidebar-menu>li>a.active {
+    color: #fff;
+    background: #1e282c;
+    border-left-color: #3c8dbc
+}
+.user-panel > .info {
+    margin-top: 4px;
+}
+.user-panel > .info > p {
+    margin-bottom: 3px;
+}
+.user-panel > .info > p:last-child {
+    margin-bottom: 0;
+}
+.user-panel > .info > p small {
+    font-weight: normal;
+}
